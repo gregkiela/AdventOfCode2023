@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8d48dc47-57f8-41b0-8d64-9c7f14c55d16" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jour2/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Jour 2/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jour2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jour 2/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +69,8 @@
       <workItem from="1701476720723" duration="113000" />
       <workItem from="1701476851947" duration="30000" />
       <workItem from="1701476895844" duration="370000" />
-      <workItem from="1701529401637" duration="2885000" />
+      <workItem from="1701529401637" duration="2996000" />
+      <workItem from="1701579512660" duration="5502000" />
     </task>
     <servers />
   </component>
@@ -79,7 +82,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -91,6 +106,6 @@
     </ignored-roots>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AdventOfCode2023$main.coverage" NAME="main Coverage Results" MODIFIED="1701532137602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jour2" />
+    <SUITE FILE_PATH="coverage/AdventOfCode2023$main.coverage" NAME="main Coverage Results" MODIFIED="1701584821788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jour 3" />
   </component>
 </project>
